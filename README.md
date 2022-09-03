@@ -2,7 +2,7 @@
 <br />
 - 👀 I’m interested in New Technologies<br />
 - 🌱 I’m currently learning NodeJS & ReactJS<br />
-- 📫 Reach me rjosh4457@gmail.com
+- 📫 Reach me rjosh4457@gmail.com<br />
 - ⚡ Fun fact: I ❤️ ??
 
 <br /><br />
