@@ -2,29 +2,31 @@
 <br />
 - 👀 I’m interested in New Technologies<br />
 - 🌱 I’m currently learning NodeJS & ReactJS<br />
-- 📫 Reach me rjosh4457@gmail.com<br />
+- 📫 How to reach me @rjosh4457@gmail.com<br />
 - ⚡ Fun fact: I ❤️ ??
 
 <br /><br />
-⭐ **Skills & Techonologies**
+⭐ **Languages & Tools**
 <br /><br />
-![icons8-javascript-48](https://user-images.githubusercontent.com/23079215/188247510-b73b8140-6f7f-44ea-b62d-fbe21386b4b0.png)
-![icons8-c-sharp-logo-2-48](https://user-images.githubusercontent.com/23079215/188247752-8ed29c86-7273-475e-b0d9-ad7f75e1b5ae.png)
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/48/000000/graphql.png"/>
-<img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
-<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+<a href="https://www.w3schools.com/js/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<a href="https://www.w3schools.com/cs/index.php" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/></a>
+<a href="" target="_blank">
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
+<a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/graphql.png"/></a>
+<a href="https://angular.io" target="_blank"><img src="https://img.icons8.com/color/48/000000/angularjs.png"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
 <br />
-<img src="https://img.icons8.com/color/48/000000/apollo.png"/>
-<img src="https://img.icons8.com/color/48/000000/php.png"/>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/sass.png"/>
+<a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/apollo.png"/></a>
+<a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-PHP-programming-and-development-those-icons-flat-those-icons.png"/></a>
+<a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
+<a href="" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/></a>
 
 🔗 **Connect with me**
 <br /><br />
-<a href="https://facebook.com/rjosh041" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a><br />
-<img src="https://img.icons8.com/fluency/48/000000/twitter.png"/><br />
-<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v5.png"/><br />
+<a href="https://facebook.com/rjosh041" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+<img src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
+<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v5.png"/>
