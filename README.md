@@ -25,4 +25,6 @@
 
 🔗 **Connect with me**
 <br /><br />
-<a href="https://facebook.com/rjosh041" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+<a href="https://facebook.com/rjosh041" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a><br />
+<img src="https://img.icons8.com/fluency/48/000000/twitter.png"/><br />
+<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v5.png"/><br />
