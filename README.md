@@ -1,7 +1,6 @@
 <h1>Hi, I'm Joshua</h1>
 <br />
 - 👀 I’m interested in New Technologies<br />
-- 🌱 I’m currently learning NodeJS & ReactJS<br />
 - 📫 How to reach me @rjosh4457@gmail.com<br />
 
 
